@@ -1,4 +1,4 @@
-key,dependencies,units,values,,,,
+key,dependencies,units,values,,val ,high,low
 foundation_insul,":foundation_type=>""Exterior Vertical""",R-IP,4,10,,,
 slab_insulation_extent,":foundation_type=>""Exterior Vertical""",in,2,24,,,
 roof_base_cavity_insul,":roof_base_type=>""Attic Roof with Steel Joists""",R-IP,4,38,,,
