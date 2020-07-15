@@ -1,0 +1,37 @@
+key,dependencies,units,increment
+roof_base_cavity_insul,":roof_base_type=>""Attic Roof with Steel Joists""",R-IP,1
+roof_base_cont_insul,,R-IP,1
+wall_base_cavity_insul,,R-IP,1
+wall_base_cont_insul,,R-IP,1
+window_u,,U-IP,0.1
+window_shgc,,,0.1
+air_leakage,,CFM/ft2,0.1
+lighting_density_office,,W/ft2,0.1
+lighting_density_residence,,W/ft2,0.1
+lighting_density_corridor,,W/ft2,0.1
+lighting_density_elevator,,W/ft2,0.1
+equipment_density_office,,W/ft2,0.1
+equipment_density_residence,,W/ft2,0.1
+equipment_density_elevator,,W/ft2,5
+dhw_residence,,GPM,0.1
+heating_setpoint,,F,1
+cooling_setpoint,,F,1
+heating_setpoint_setback,,F,1
+cooling_setpoint_setup,,F,1
+heating_setpoint_residence,,F,1
+cooling_setpoint_residence,,F,1
+heating_setpoint_corridor,,F,1
+oa_person_office,,CFM,5
+oa_person_residence,,CFM,5
+oa_person_corridor,,CFM,5
+oa_area_office,,CFM/ft2,0.05
+oa_area_residence,,CFM/ft2,0.05
+oa_area_corridor,,CFM/ft2,0.05
+fan_eff,,,0.05
+fan_rise,,in H2O,0.5
+fan_rise_corridor,,in H2O,0.5
+fan_motor_eff,,,0.01
+heating_coil_eff,,,0.05
+cooling_coil_cop,,,0.1
+ext_light_w,,W,1000
+water_heater_eff,,,0.05

@@ -1,0 +1,40 @@
+File Name,Elec Jan (GJ),Elec Feb (GJ),Elec Mar (GJ),Elec Apr (GJ),Elec May (GJ),Elec Jun (GJ),Elec Jul (GJ),Elec Aug (GJ),Elec Sep (GJ),Elec Oct (GJ),Elec Nov (GJ),Elec Dec (GJ),Gas Jan (GJ),Gas Feb (GJ),Gas Mar (GJ),Gas Apr (GJ),Gas May (GJ),Gas Jun (GJ),Gas Jul (GJ),Gas Aug (GJ),Gas Sep (GJ),Gas Oct (GJ),Gas Nov (GJ),Gas Dec (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,106.78,95.75,106.22,101.27,106.87,108.13,116.01,124.60,108.55,105.56,102.82,106.82,109.70,85.14,50.89,26.68,15.63,12.56,12.21,12.47,12.42,20.61,64.68,108.29
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,107.04,95.54,107.35,105.11,108.81,116.82,131.51,134.48,124.34,108.56,102.75,106.93,94.18,60.69,35.56,26.56,18.25,12.23,11.80,12.05,12.05,27.76,69.38,95.07
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,112.98,101.04,112.64,110.73,118.77,134.14,153.50,148.02,124.81,116.10,109.02,111.90,179.93,101.33,69.78,25.48,14.54,12.20,11.52,11.67,11.60,19.45,93.69,135.87
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,109.17,96.99,108.58,103.94,108.72,117.60,131.23,129.62,118.43,110.63,104.73,108.75,156.16,109.99,94.33,49.99,27.88,14.61,12.72,13.21,15.52,36.31,126.09,149.03
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,113.22,100.44,111.68,106.90,116.42,130.11,148.52,145.96,122.41,114.82,108.38,113.10,196.68,111.98,94.48,38.38,21.31,13.12,12.46,12.58,18.24,43.62,111.02,193.84
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,114.62,103.89,114.94,107.14,117.31,128.12,138.27,138.72,115.11,117.40,110.94,115.03,154.38,185.65,136.95,97.86,40.48,22.31,13.65,13.60,26.72,85.97,138.16,209.47
+
+File Name,Total Annual (GJ),Elec Annual (GJ),Gas Annual (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,1820.66,1289.40,531.26
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,1824.79,1349.22,475.57
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,2140.73,1453.66,687.08
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,2154.24,1348.40,805.84
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,2299.65,1431.93,867.71
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,2546.67,1421.49,1125.18
+
+File Name,Net Site EUI (MJ/m2),Net Source EUI (MJ/m2),Total Energy/Net Site Energy (GJ),Total Energy/Net Source Energy (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,870.99,2326.35,1820.66,4862.81
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,872.97,2394.04,1824.79,5004.31
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,1024.12,2666.86,2140.73,5574.58
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,1030.58,2558.16,2154.24,5347.37
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,1100.14,2722.63,2299.65,5691.16
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,1218.32,2834.90,2546.67,5925.83
+
+File Name,Total (GJ),Heating (GJ),Cooling (GJ),Lights (GJ),Equipment (GJ),Fans (GJ),Pumps (GJ),Heat Recovery (GJ),DHW (GJ),CHP (GJ),Generated (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,1820.66,376.19,69.53,473.49,242.96,377.92,0.0,0.0,155.07,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,1824.79,324.09,122.41,473.49,242.96,384.31,0.0,0.0,151.48,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,2140.7400000000002,531.94,167.73,473.49,242.96,443.95,0.0,0.0,155.13,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,2154.2400000000002,642.61,108.49,473.49,242.96,397.75,0.0,0.0,163.23,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,2299.6400000000003,703.11,149.01,473.49,242.96,440.82,0.0,0.0,164.6,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,2546.67,953.43,108.33,473.49,242.96,471.26,0.0,0.0,171.75,0.0,0.000
+
+File Name,Unmet Heating (Hours),Unmet Cooling (Hours)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,5.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,11.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,11.00,2.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,2.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-strip-mall/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,3.00,0.00
+

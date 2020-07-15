@@ -1,0 +1,37 @@
+key,dependencies,units,values,
+roof_base_cavity_insul,":roof_base_type=>""Attic Roof with Steel Joists""",R-IP,0,38
+roof_base_cont_insul,,R-IP,0,20
+wall_base_cavity_insul,,R-IP,0,19
+wall_base_cont_insul,,R-IP,0,10
+window_u,,U-IP,0.15,0.8
+window_shgc,,,0.25,0.75
+air_leakage,,CFM/ft2,0.15,1.2
+lighting_density_office,,W/ft2,0.4,2
+lighting_density_residence,,W/ft2,0.2,1
+lighting_density_corridor,,W/ft2,0.2,1
+lighting_density_elevator,,W/ft2,0.2,1
+equipment_density_office,,W/ft2,0.5,2
+equipment_density_residence,,W/ft2,0.2,1.5
+equipment_density_elevator,,W/ft2,10,30
+dhw_residence,,GPM,0.01,0.5
+heating_setpoint,,F,65,75
+cooling_setpoint,,F,70,80
+heating_setpoint_setback,,F,50,70
+cooling_setpoint_setup,,F,70,90
+heating_setpoint_residence,,F,65,75
+cooling_setpoint_residence,,F,70,80
+heating_setpoint_corridor,,F,50,70
+oa_person_office,,CFM,0,30
+oa_person_residence,,CFM,0,30
+oa_person_corridor,,CFM,0,30
+oa_area_office,,CFM/ft2,0,0.12
+oa_area_residence,,CFM/ft2,0,0.12
+oa_area_corridor,,CFM/ft2,0,0.12
+fan_eff,,,0.4,0.7
+fan_rise,,in H2O,2,4
+fan_rise_corridor,,in H2O,2,4
+fan_motor_eff,,,0.8,0.9
+heating_coil_eff,,,0.75,0.95
+cooling_coil_cop,,,2,4
+ext_light_w,,W,2000,10000
+water_heater_eff,,,0.75,0.95

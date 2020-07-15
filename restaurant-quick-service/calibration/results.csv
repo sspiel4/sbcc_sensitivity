@@ -1,0 +1,40 @@
+File Name,Elec Jan (GJ),Elec Feb (GJ),Elec Mar (GJ),Elec Apr (GJ),Elec May (GJ),Elec Jun (GJ),Elec Jul (GJ),Elec Aug (GJ),Elec Sep (GJ),Elec Oct (GJ),Elec Nov (GJ),Elec Dec (GJ),Gas Jan (GJ),Gas Feb (GJ),Gas Mar (GJ),Gas Apr (GJ),Gas May (GJ),Gas Jun (GJ),Gas Jul (GJ),Gas Aug (GJ),Gas Sep (GJ),Gas Oct (GJ),Gas Nov (GJ),Gas Dec (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,47.21,42.62,47.27,46.82,49.74,50.24,54.98,57.32,49.90,48.39,46.11,47.31,73.27,60.74,56.16,45.81,41.07,35.81,35.56,35.64,36.32,45.08,57.50,69.36
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,48.06,43.26,48.57,48.97,50.71,54.90,63.22,62.38,57.96,50.30,46.55,48.12,68.18,53.33,49.18,42.02,40.15,34.67,35.05,35.09,34.81,43.33,57.67,65.32
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,49.28,44.53,49.63,50.96,55.21,61.92,72.55,67.42,57.37,52.92,48.29,49.38,89.31,63.18,56.75,41.17,37.91,34.62,34.90,34.89,34.45,40.75,63.00,75.21
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,48.30,43.47,48.25,48.27,50.82,55.52,63.07,60.25,55.24,50.95,46.76,48.39,81.11,64.53,64.29,48.56,42.13,35.72,35.77,35.76,36.18,45.16,70.13,78.23
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,49.02,44.23,48.94,48.94,54.21,60.49,70.04,66.45,56.04,51.82,47.71,49.07,91.42,66.85,64.02,45.14,39.33,34.98,35.50,35.49,36.81,46.01,66.05,86.98
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,49.82,44.82,49.56,48.14,53.91,59.07,65.78,63.05,53.03,52.49,48.30,49.78,80.16,82.52,77.44,60.77,45.58,38.48,36.49,36.13,40.06,58.36,70.83,90.29
+
+File Name,Total Annual (GJ),Elec Annual (GJ),Gas Annual (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,1180.23,587.89,592.33
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,1181.82,623.02,558.79
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,1265.61,659.47,606.14
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,1256.86,619.29,637.57
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,1295.53,646.97,648.57
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,1354.85,637.74,717.11
+
+File Name,Net Site EUI (MJ/m2),Net Source EUI (MJ/m2),Total Energy/Net Site Energy (GJ),Total Energy/Net Source Energy (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,5079.67,11120.35,1180.23,2583.74
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,5086.52,11474.20,1181.82,2665.95
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,5447.15,12211.50,1265.61,2837.26
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,5409.52,11775.57,1256.86,2735.97
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,5575.95,12222.96,1295.53,2839.92
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,5831.26,12399.24,1354.85,2880.88
+
+File Name,Total (GJ),Heating (GJ),Cooling (GJ),Lights (GJ),Equipment (GJ),Fans (GJ),Pumps (GJ),Heat Recovery (GJ),DHW (GJ),CHP (GJ),Generated (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,1180.22,170.62,34.05,47.06,649.1500000000001,115.66,0.0,0.0,83.49,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,1181.81,139.42,59.12,47.06,649.1500000000001,125.1,0.0,0.0,81.15,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,1265.6100000000001,184.32,77.96,47.06,649.1500000000001,143.47,0.0,0.0,83.59,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,1256.8600000000001,210.37,52.17,47.06,649.1500000000001,130.44,0.0,0.0,88.98,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,1295.54,220.43,69.55,47.06,649.1500000000001,140.67,0.0,0.0,89.91,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,1354.85,284.23,53.01,47.06,649.1500000000001,148.7,0.0,0.0,94.65,0.0,0.000
+
+File Name,Unmet Heating (Hours),Unmet Cooling (Hours)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,445.00,218.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,544.00,235.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,773.00,389.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,758.00,137.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,749.00,236.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/restaurant-quick-service/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,1008.00,231.00
+

@@ -1,0 +1,100 @@
+File Name,Elec Jan (GJ),Elec Feb (GJ),Elec Mar (GJ),Elec Apr (GJ),Elec May (GJ),Elec Jun (GJ),Elec Jul (GJ),Elec Aug (GJ),Elec Sep (GJ),Elec Oct (GJ),Elec Nov (GJ),Elec Dec (GJ),Gas Jan (GJ),Gas Feb (GJ),Gas Mar (GJ),Gas Apr (GJ),Gas May (GJ),Gas Jun (GJ),Gas Jul (GJ),Gas Aug (GJ),Gas Sep (GJ),Gas Oct (GJ),Gas Nov (GJ),Gas Dec (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,616.08,561.56,627.06,619.54,658.44,657.28,702.47,726.56,667.38,649.68,615.96,621.44,463.62,390.53,347.60,262.67,209.07,149.14,129.75,126.09,152.46,251.98,357.00,467.16
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,625.00,566.27,647.06,619.91,655.36,686.79,745.47,749.11,700.17,648.87,612.82,630.99,426.19,346.30,294.06,264.27,231.77,146.06,122.47,126.72,150.78,270.32,379.63,432.57
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,620.37,563.15,625.84,632.84,674.89,698.32,771.39,738.34,672.97,647.95,608.49,622.13,603.17,435.45,389.25,242.20,184.41,139.48,116.92,132.62,147.52,246.51,438.43,527.80
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,611.05,550.27,613.08,606.33,636.79,661.28,716.28,696.60,649.55,634.75,594.36,615.28,574.82,456.57,455.64,327.27,279.61,178.36,140.89,169.24,218.49,325.61,509.69,548.97
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,617.84,556.25,618.26,611.18,662.62,675.71,737.08,717.24,647.77,636.74,599.77,617.83,658.11,459.82,455.77,307.08,232.87,151.52,126.24,147.71,222.50,345.08,489.39,652.95
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,628.13,566.46,627.93,609.19,656.18,678.57,731.61,707.23,639.54,644.08,611.42,626.54,556.68,591.50,528.08,433.26,276.10,186.21,138.33,159.13,251.35,414.64,527.54,652.48
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ1/instance-out.sql,444.29,406.43,456.96,450.31,481.81,484.13,516.23,539.97,494.16,475.30,448.96,449.49,261.49,233.13,211.24,164.79,132.84,96.83,78.52,65.87,98.34,159.67,217.78,279.69
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ2/instance-out.sql,448.05,407.13,471.12,445.28,473.61,502.66,541.48,551.07,511.64,469.95,441.78,454.01,244.98,209.07,183.56,160.38,140.00,81.13,58.83,59.18,76.37,161.11,230.66,264.63
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ3/instance-out.sql,431.95,394.69,441.30,446.97,477.43,493.93,539.70,523.04,477.22,457.39,427.10,434.90,343.30,264.35,245.07,154.68,122.15,80.10,52.49,66.35,90.14,155.87,265.91,322.88
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ1/instance-out.sql,430.23,388.65,435.92,430.74,454.34,474.05,510.90,500.01,463.62,452.38,420.34,434.99,316.67,271.36,272.49,199.38,168.60,100.53,73.99,86.09,113.24,184.18,300.85,329.29
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ2/instance-out.sql,427.74,388.24,434.19,428.88,468.38,475.91,515.19,506.32,455.16,447.02,418.17,427.57,357.56,277.17,275.47,189.33,137.69,79.08,59.49,70.36,115.61,194.09,289.26,376.53
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ3_CZ1/instance-out.sql,435.16,390.86,437.60,424.73,459.91,476.65,512.20,497.88,449.29,448.17,423.74,432.16,311.18,340.45,322.02,266.01,173.96,105.39,71.25,82.98,145.84,236.55,308.53,385.15
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,499.62,455.20,508.46,502.80,535.42,534.99,572.54,592.30,546.39,530.19,501.28,503.82,233.63,206.06,186.08,140.55,108.80,75.80,57.25,47.44,76.56,136.71,192.55,248.47
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,503.77,456.21,522.77,498.69,528.06,553.93,598.98,603.94,565.03,525.70,494.20,508.64,216.89,183.11,160.16,134.37,115.27,62.02,40.53,41.44,56.41,136.56,203.46,234.25
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,497.74,452.72,503.27,510.33,543.10,557.64,612.05,589.61,542.57,524.22,490.48,500.50,297.66,221.74,201.89,118.63,89.20,54.60,32.12,43.85,62.35,119.99,224.32,275.73
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,495.10,446.09,496.24,492.14,516.77,534.71,578.45,563.08,526.26,516.14,482.08,499.45,275.42,231.59,228.40,161.06,131.86,72.86,48.47,60.13,84.46,146.97,257.62,285.24
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,497.73,449.76,499.36,494.53,535.94,543.22,590.55,576.38,523.10,515.83,485.14,498.55,311.28,230.86,227.70,146.57,100.87,51.39,35.63,45.19,81.79,148.71,242.24,329.58
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,506.50,455.47,505.12,491.65,530.08,545.33,587.85,569.15,518.11,520.13,492.93,504.86,265.18,295.86,268.35,220.08,131.86,73.61,43.69,53.53,109.72,192.73,263.05,336.68
+
+File Name,Total Annual (GJ),Elec Annual (GJ),Gas Annual (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,11030.53,7723.45,3307.08
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,11078.96,7887.82,3191.13
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,11480.43,7876.67,3603.75
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,11770.79,7585.62,4185.17
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,11947.33,7698.30,4249.03
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,12442.19,7726.87,4715.31
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ1/instance-out.sql,7648.24,5648.04,2000.19
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ2/instance-out.sql,7587.69,5717.78,1869.90
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ3/instance-out.sql,7708.88,5545.62,2163.26
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ1/instance-out.sql,7812.84,5396.16,2416.68
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ2/instance-out.sql,7814.40,5392.76,2421.64
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ3_CZ1/instance-out.sql,8137.70,5388.38,2749.33
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,7992.95,6283.03,1709.92
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,7944.39,6359.92,1584.47
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,8066.29,6324.22,1742.08
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,8130.58,6146.50,1984.08
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,8161.90,6210.09,1951.81
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,8481.51,6227.17,2254.33
+
+File Name,Net Site EUI (MJ/m2),Net Source EUI (MJ/m2),Total Energy/Net Site Energy (GJ),Total Energy/Net Source Energy (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,2638.38,6998.39,11030.53,29258.83
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,2649.96,7100.67,11078.96,29686.44
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,2745.99,7195.10,11480.43,30081.22
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,2815.44,7108.19,11770.79,29717.86
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,2857.67,7214.20,11947.33,30161.07
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,2976.03,7353.79,12442.19,30744.68
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ1/instance-out.sql,1829.37,5013.08,7648.24,20958.66
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ2/instance-out.sql,1814.89,5036.17,7587.69,21055.19
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ3/instance-out.sql,1843.88,4972.10,7708.88,20787.31
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ1/instance-out.sql,1868.74,4916.16,7812.84,20553.43
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ2/instance-out.sql,1869.12,4914.68,7814.40,20547.28
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ3_CZ1/instance-out.sql,1946.45,4993.24,8137.70,20875.73
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,1911.83,5447.67,7992.95,22775.60
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,1900.21,5477.68,7944.39,22901.06
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,1929.37,5488.63,8066.29,22946.84
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,1944.74,5407.26,8130.58,22606.63
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,1952.24,5449.98,8161.90,22785.26
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,2028.68,5539.39,8481.51,23159.05
+
+File Name,Total (GJ),Heating (GJ),Cooling (GJ),Lights (GJ),Equipment (GJ),Fans (GJ),Pumps (GJ),Heat Recovery (GJ),DHW (GJ),CHP (GJ),Generated (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,11030.529999999999,1926.52,252.56,1315.34,2507.71,1004.56,0.0,0.0,271.93,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,11078.95,1818.98,328.58,1315.34,2507.71,1061.38,0.0,0.0,263.53,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,11480.42,2222.88,380.96,1315.34,2507.71,1228.83,0.0,0.0,272.25,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,11770.79,2785.54,299.32,1315.34,2507.71,1122.26,0.0,0.0,291.01,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,11947.33,2846.19,351.09,1315.34,2507.71,1227.94,0.0,0.0,294.22,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,12442.18,3295.53,299.63,1315.34,2507.71,1311.34,0.0,0.0,311.17,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ1/instance-out.sql,7648.23,1776.48,61.31,934.17,985.05,452.0,0.0,0.0,24.59,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ2/instance-out.sql,7587.68,1646.69,87.9,934.17,985.05,448.65,0.0,0.0,24.09,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ3/instance-out.sql,7708.88,1939.53,100.67,934.17,985.05,486.63,0.0,0.0,24.61,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ1/instance-out.sql,7812.84,2191.83,74.87,934.17,985.05,461.11,0.0,0.0,25.72,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ2/instance-out.sql,7814.4,2196.6,92.31,934.17,985.05,483.16,0.0,0.0,25.91,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ3_CZ1/instance-out.sql,8137.71,2523.28,70.52,934.17,985.05,501.73,0.0,0.0,26.92,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,7992.95,1486.22,63.94,1254.5,985.05,518.2,0.0,0.0,24.58,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,7944.39,1361.26,90.88,1254.5,985.05,521.23,0.0,0.0,24.08,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,8066.3,1518.35,109.26,1254.5,985.05,668.91,0.0,0.0,24.6,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,8130.58,1759.24,79.19,1254.5,985.05,622.6,0.0,0.0,25.72,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,8161.9,1726.77,99.41,1254.5,985.05,698.23,0.0,0.0,25.91,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,8481.5,2028.29,75.99,1254.5,985.05,748.43,0.0,0.0,26.92,0.0,0.000
+
+File Name,Unmet Heating (Hours),Unmet Cooling (Hours)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,169.00,833.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,182.00,774.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,309.00,810.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,396.00,528.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,439.00,547.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,500.00,503.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ1/instance-out.sql,7.00,3.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ2/instance-out.sql,7.00,4.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ1_CZ3/instance-out.sql,54.00,40.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ1/instance-out.sql,48.00,2.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ2_CZ2/instance-out.sql,108.00,5.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/default/HZ3_CZ1/instance-out.sql,163.00,4.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,0.00,74.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,0.00,122.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,0.00,210.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,0.00,108.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,0.00,142.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/retail-supermarket/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,0.00,128.00
+

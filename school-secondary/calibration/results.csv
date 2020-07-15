@@ -1,0 +1,70 @@
+File Name,Elec Jan (GJ),Elec Feb (GJ),Elec Mar (GJ),Elec Apr (GJ),Elec May (GJ),Elec Jun (GJ),Elec Jul (GJ),Elec Aug (GJ),Elec Sep (GJ),Elec Oct (GJ),Elec Nov (GJ),Elec Dec (GJ),Gas Jan (GJ),Gas Feb (GJ),Gas Mar (GJ),Gas Apr (GJ),Gas May (GJ),Gas Jun (GJ),Gas Jul (GJ),Gas Aug (GJ),Gas Sep (GJ),Gas Oct (GJ),Gas Nov (GJ),Gas Dec (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,576.57,520.10,591.01,547.84,589.90,594.39,523.71,577.45,570.69,569.07,559.30,562.95,1566.11,1279.55,1128.42,842.30,642.77,387.77,289.21,258.86,470.61,836.86,1177.64,1505.92
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,575.59,514.09,594.32,561.37,599.21,633.15,573.46,610.83,631.57,583.45,559.82,559.72,1508.44,1181.34,1006.78,817.14,714.73,351.82,185.98,231.93,371.43,872.22,1270.71,1426.34
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,597.66,533.35,609.38,573.63,618.74,681.54,628.64,628.54,607.28,595.57,578.75,580.05,2137.52,1489.09,1316.36,767.66,549.06,273.83,116.08,219.93,358.23,805.39,1487.02,1797.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,592.31,530.61,609.78,569.62,607.21,642.30,569.03,586.23,609.99,598.79,577.45,578.14,1841.37,1451.82,1432.22,985.16,832.51,422.31,235.40,353.05,564.30,982.37,1630.07,1747.58
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,602.19,540.54,616.26,572.73,627.86,674.12,616.01,628.06,614.79,611.92,584.64,589.63,2117.85,1507.23,1452.00,932.38,660.05,295.11,125.23,228.77,554.67,1023.56,1574.70,1993.65
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,604.47,545.97,623.66,571.50,623.46,661.52,578.54,601.97,583.99,613.18,590.27,593.43,1912.60,1957.39,1796.12,1396.61,803.62,425.61,189.53,272.42,712.18,1297.26,1710.26,2087.09
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,803.00,742.11,891.51,819.72,881.02,849.70,736.38,808.22,823.49,867.57,828.66,805.48,187.12,152.06,137.51,105.31,94.87,77.45,45.43,48.52,72.81,97.05,123.28,161.97
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,829.07,781.79,932.80,841.55,881.48,896.58,796.13,856.87,887.88,855.93,844.70,849.70,167.07,130.06,117.57,107.98,100.16,75.67,43.73,48.40,73.37,109.71,132.95,147.91
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,824.37,774.06,935.42,875.55,953.81,1109.06,990.43,994.87,914.97,904.79,860.61,829.83,268.43,167.21,155.90,99.87,88.17,72.02,40.59,46.12,66.26,95.20,159.46,192.86
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,823.12,758.85,886.14,854.17,906.20,985.02,870.30,864.31,894.93,882.90,816.36,822.04,243.76,172.24,181.10,124.48,112.18,80.84,43.61,54.21,86.66,123.15,184.17,202.88
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,832.19,770.26,916.14,872.44,965.52,1126.56,1077.56,1066.83,934.79,864.93,863.05,818.19,298.89,172.19,173.49,112.84,99.83,74.64,40.48,45.11,84.23,130.48,181.13,257.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,841.54,758.04,919.69,863.09,984.50,1102.29,944.22,941.31,882.10,898.78,871.94,827.37,233.59,261.14,215.33,158.06,116.47,87.00,43.32,49.96,91.14,151.67,202.72,249.24
+
+File Name,Total Annual (GJ),Elec Annual (GJ),Gas Annual (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,17168.98,6782.96,10386.02
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,16935.45,6996.58,9938.87
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,18550.29,7233.13,11317.17
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,19549.61,7071.46,12478.15
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,19743.98,7278.77,12465.21
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,21752.64,7191.96,14560.68
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,11160.23,9856.86,1303.37
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,11509.06,10254.47,1254.59
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,12419.87,10967.79,1452.09
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,11973.62,10364.34,1609.28
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,12778.75,11108.44,1670.30
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,12694.50,10834.87,1859.62
+
+File Name,Net Site EUI (MJ/m2),Net Source EUI (MJ/m2),Total Energy/Net Site Energy (GJ),Total Energy/Net Source Energy (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,876.33,1711.37,17168.98,33529.25
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,864.41,1723.90,16935.45,33774.57
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,946.83,1837.88,18550.29,36007.71
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,997.84,1872.36,19549.61,36683.30
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,1007.76,1907.01,19743.98,37362.18
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,1110.28,2004.19,21752.64,39266.19
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,569.63,1750.03,11160.23,34286.54
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,587.44,1815.20,11509.06,35563.50
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,633.93,1947.36,12419.87,38152.74
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,611.15,1852.89,11973.62,36301.80
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,652.24,1983.00,12778.75,38851.01
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,647.94,1946.48,12694.50,38135.50
+
+File Name,Total (GJ),Heating (GJ),Cooling (GJ),Lights (GJ),Equipment (GJ),Fans (GJ),Pumps (GJ),Heat Recovery (GJ),DHW (GJ),CHP (GJ),Generated (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,17168.98,8868.76,249.17,3027.93,3047.38,599.83,69.61,0.0,1004.51,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,16935.45,8453.96,450.98,3027.93,3047.38,602.3,76.72,0.0,972.15,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,18550.3,9784.24,573.2,3027.93,3047.38,708.47,86.4,0.0,1020.17,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,19549.61,10879.14,430.89,3027.93,3047.38,690.74,87.29,0.0,1086.26,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,19743.98,10845.04,549.61,3027.93,3047.38,766.31,99.85,0.0,1107.41,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,21752.64,12877.36,418.09,3027.93,3047.38,807.65,105.2,0.0,1170.56,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,11160.23,507.74,387.91,3213.27,2626.92,3444.42,3.17,0.0,442.24,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,11509.06,473.46,593.45,3213.27,2626.92,3631.34,5.01,0.0,427.73,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,12419.880000000001,649.39,1147.79,3213.27,2626.92,3773.58,24.24,0.0,449.31,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,11973.62,776.89,622.93,3213.27,2626.92,3707.37,14.17,0.0,478.99,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,12778.74,828.37,1191.12,3213.27,2626.92,3865.5,31.6,0.0,488.54,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,12694.490000000002,989.36,759.0,3213.27,2626.92,4025.96,32.24,0.0,516.87,0.0,0.000
+
+File Name,Unmet Heating (Hours),Unmet Cooling (Hours)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,270.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,90.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,80.00,1.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,180.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,196.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,264.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,1697.00,2992.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,1440.00,3035.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,1543.00,2936.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,1726.00,2849.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,1635.00,2844.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/school-secondary/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,2056.00,2658.00
+

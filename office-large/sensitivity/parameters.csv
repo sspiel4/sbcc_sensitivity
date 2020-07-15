@@ -1,0 +1,39 @@
+key,dependencies,units,values,
+foundation_insul,":foundation_type=>""Exterior Vertical""",R-IP,4,10
+roof_base_cavity_insul,":roof_base_type=>""Attic Roof with Steel Joists""",R-IP,4,38
+roof_base_cont_insul,,R-IP,0,20
+wall_base_cont_insul,,R-IP,0,10
+window_u,,U-IP,0.15,0.8
+window_shgc,,,0.25,0.6
+air_leakage,,CFM/ft2,0.15,1
+lighting_density,,W/ft2,0.4,2
+lighting_density_elevator,,W/ft2,0.2,1
+equipment_density,,W/ft2,0.5,2
+dhw_office,,GPM,0.1,10
+dhw_temp,,F,90,200
+heating_setpoint,,F,65,75
+cooling_setpoint,,F,70,80
+oa_person_office,,CFM,1,20
+oa_person_basement,,CFM,1,20
+oa_area_office,,CFM/ft2,0.05,1.5
+oa_area_basement,,CFM/ft2,0.05,1.5
+vav_terminal_fan_eff,,,0.4,0.8
+vav_terminal_fan_rise,,in H2O,0.1,2
+fan_rise_supply,,in H2O,1,10
+cooling_coil_cop,,,1,4
+heating_coil_eff,,,0.7,0.95
+ext_light_w,,,30000,90000
+ext_equipment_w,,,100000,600000
+supply_cw_temp,,,40,50
+chiller_cop,,,3,9
+chiller_outdoor_min,,,28,36
+supply_hw_temp,,,170,190
+pump_eff_hw,,,0.7,0.95
+pump_head_hw,,ft H2O,50,70
+boiler_eff,,,0.7,0.95
+chp_therm_eff,,,0.6,0.8
+chp_elec_eff,,,0.15,0.4
+water_heater_eff,,,0.7,0.95
+supply_dhw_temp,,,130,150
+pump_eff_dhw,,,0.7,0.95
+pump_head_dhw,,ft H2O,50,70

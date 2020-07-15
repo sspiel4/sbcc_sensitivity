@@ -1,0 +1,70 @@
+File Name,Elec Jan (GJ),Elec Feb (GJ),Elec Mar (GJ),Elec Apr (GJ),Elec May (GJ),Elec Jun (GJ),Elec Jul (GJ),Elec Aug (GJ),Elec Sep (GJ),Elec Oct (GJ),Elec Nov (GJ),Elec Dec (GJ),Gas Jan (GJ),Gas Feb (GJ),Gas Mar (GJ),Gas Apr (GJ),Gas May (GJ),Gas Jun (GJ),Gas Jul (GJ),Gas Aug (GJ),Gas Sep (GJ),Gas Oct (GJ),Gas Nov (GJ),Gas Dec (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,594.92,536.51,583.28,570.56,601.39,603.94,649.10,666.14,610.38,594.71,573.98,594.96,661.13,583.22,606.86,545.02,518.45,461.23,437.72,423.43,458.40,535.47,574.26,639.69
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,593.39,527.32,585.71,581.67,604.23,621.07,669.06,671.71,633.90,609.63,567.39,589.09,632.50,552.56,577.41,514.63,498.26,417.76,385.72,381.98,393.66,509.03,565.06,617.15
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,599.87,539.62,593.44,591.61,624.87,645.97,702.47,680.96,634.76,614.48,579.93,600.83,745.15,613.86,639.45,539.63,502.79,408.96,364.29,385.17,411.14,497.05,586.09,663.19
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,598.79,539.45,594.26,580.96,602.78,611.75,656.89,648.72,615.83,609.16,577.81,601.18,721.79,617.72,654.26,576.69,551.17,458.15,423.50,436.13,449.95,534.69,609.34,662.74
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,598.94,551.03,600.39,588.64,623.79,635.88,685.80,668.38,621.82,618.18,586.24,602.48,785.49,616.05,666.51,582.70,535.16,439.61,402.66,409.28,441.39,529.69,602.34,730.87
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,610.21,545.79,605.24,580.93,624.45,635.10,679.11,669.77,611.91,621.30,585.38,609.48,724.61,731.76,714.74,656.23,582.01,490.19,449.45,459.16,509.09,594.88,649.25,751.73
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,467.14,421.83,462.50,452.34,475.32,473.77,504.98,515.44,476.12,469.81,452.22,466.85,1070.74,951.63,990.11,896.64,862.64,779.04,754.10,737.85,767.24,870.26,925.47,1031.97
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,465.64,416.87,464.10,458.61,476.25,484.11,517.94,519.22,491.54,477.76,448.04,463.75,1027.78,903.26,949.50,859.14,833.62,721.06,681.17,678.26,687.84,839.55,917.56,998.28
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,470.79,423.91,468.11,465.38,490.27,501.13,540.20,526.18,492.38,481.87,455.73,470.72,1245.02,1024.00,1059.40,904.36,841.62,707.93,647.68,662.61,695.07,819.48,972.99,1104.92
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,469.22,422.86,467.10,457.39,474.78,479.49,511.47,505.65,480.07,477.41,453.30,470.16,1204.85,1028.56,1096.16,966.66,925.21,789.22,746.21,754.85,769.56,894.31,1026.41,1118.15
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,471.07,429.62,471.30,461.38,489.18,496.17,531.90,519.55,484.86,483.25,458.78,472.37,1320.04,1052.69,1128.12,973.91,907.01,762.13,711.65,712.29,754.24,893.98,1019.51,1235.14
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,477.18,428.53,474.63,457.40,489.69,495.55,527.49,520.56,478.13,485.99,459.27,476.84,1240.97,1221.76,1219.33,1104.24,987.91,849.32,797.16,796.60,855.28,1004.05,1099.17,1271.56
+
+File Name,Total Annual (GJ),Elec Annual (GJ),Gas Annual (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,13624.76,7179.88,6444.88
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,13299.89,7254.17,6045.72
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,13765.58,7408.82,6356.77
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,13933.70,7237.59,6696.12
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,14123.33,7381.58,6741.75
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,14691.77,7378.67,7313.10
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,16275.99,5638.30,10637.69
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,15780.86,5683.84,10097.02
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,16471.75,5786.66,10685.09
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,16989.04,5668.89,11320.15
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,17240.13,5769.44,11470.69
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,18218.61,5771.26,12447.35
+
+File Name,Net Site EUI (MJ/m2),Net Source EUI (MJ/m2),Total Energy/Net Site Energy (GJ),Total Energy/Net Source Energy (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,1200.92,2708.49,13624.76,30728.59
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,1172.28,2693.52,13299.89,30558.79
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,1213.33,2767.76,13765.58,31400.98
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,1228.15,2748.66,13933.70,31184.38
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,1244.86,2795.27,14123.33,31713.09
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,1294.97,2847.14,14691.77,32301.57
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,1434.60,2641.59,16275.99,29969.58
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,1390.96,2605.10,15780.86,29555.59
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,1451.86,2689.64,16471.75,30514.74
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,1497.45,2713.58,16989.04,30786.29
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,1519.59,2757.07,17240.13,31279.74
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,1605.83,2847.74,18218.61,32308.38
+
+File Name,Total (GJ),Heating (GJ),Cooling (GJ),Lights (GJ),Equipment (GJ),Fans (GJ),Pumps (GJ),Heat Recovery (GJ),DHW (GJ),CHP (GJ),Generated (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,13624.76,2435.21,387.72,2279.88,3185.9700000000003,796.59,41.17,0.0,3087.57,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,13299.89,2168.12,482.28,2279.88,3185.9700000000003,772.25,42.91,0.0,2955.5,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,13765.59,2341.72,571.56,2279.88,3185.9700000000003,839.13,43.74,0.0,3092.94,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,13933.71,2386.81,406.56,2279.88,3185.9700000000003,840.18,37.19,0.0,3387.2,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,14123.33,2381.85,487.55,2279.88,3185.9700000000003,902.8,37.63,0.0,3437.79,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,14691.77,2686.93,444.84,2279.88,3185.9700000000003,944.0,37.51,0.0,3704.06,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,16275.990000000002,2787.56,218.81,1642.37,3191.48,579.26,38.0,0.0,6611.48,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,15780.86,2491.91,281.25,1642.37,3191.48,559.43,39.51,0.0,6366.46,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,16471.75,2825.1,335.4,1642.37,3191.48,608.23,40.91,0.0,6621.34,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,16989.04,2914.94,233.53,1642.37,3191.48,599.23,35.0,0.0,7166.56,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,17240.13,2971.37,290.82,1642.37,3191.48,640.52,36.99,0.0,7260.67,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,18218.61,3454.45,262.44,1642.37,3191.48,671.39,37.34,0.0,7754.25,0.0,0.000
+
+File Name,Unmet Heating (Hours),Unmet Cooling (Hours)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ1/instance-out.sql,3.00,7.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ2/instance-out.sql,15.00,38.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ1_CZ3/instance-out.sql,10.00,66.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ1/instance-out.sql,2.00,44.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ2_CZ2/instance-out.sql,3.00,30.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/Calib/HZ3_CZ1/instance-out.sql,14.00,22.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,1.00,4.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,5.00,35.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,17.00,53.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,5.00,33.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,23.00,6.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/hotel-large/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,24.00,0.00
+

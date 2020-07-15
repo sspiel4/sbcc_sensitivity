@@ -1,0 +1,70 @@
+File Name,Elec Jan (GJ),Elec Feb (GJ),Elec Mar (GJ),Elec Apr (GJ),Elec May (GJ),Elec Jun (GJ),Elec Jul (GJ),Elec Aug (GJ),Elec Sep (GJ),Elec Oct (GJ),Elec Nov (GJ),Elec Dec (GJ),Gas Jan (GJ),Gas Feb (GJ),Gas Mar (GJ),Gas Apr (GJ),Gas May (GJ),Gas Jun (GJ),Gas Jul (GJ),Gas Aug (GJ),Gas Sep (GJ),Gas Oct (GJ),Gas Nov (GJ),Gas Dec (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,354.74,296.03,272.93,264.36,284.93,293.25,321.65,329.92,289.67,272.67,283.88,335.71,101.02,92.29,100.28,92.69,89.80,81.28,79.92,78.66,78.03,85.20,88.24,96.95
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,332.58,260.07,271.03,277.47,288.07,314.86,359.08,350.85,325.91,282.53,286.36,317.10,98.55,89.94,97.32,89.20,85.54,76.60,74.82,73.67,73.58,81.26,85.09,94.24
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,470.29,321.71,311.16,307.11,335.50,372.92,436.17,402.78,350.20,317.94,346.83,387.86,109.98,101.20,108.69,97.15,89.51,76.30,71.42,69.08,70.26,81.06,88.99,102.54
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,432.81,325.37,319.84,292.46,293.60,324.55,369.46,350.07,318.46,297.20,359.97,393.42,111.83,102.81,112.01,103.31,99.37,88.93,86.34,84.19,83.29,91.43,95.64,106.31
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,499.03,329.23,321.06,288.02,319.44,355.16,412.52,387.43,330.66,312.75,353.91,473.14,118.03,109.19,118.56,107.79,101.25,87.97,83.13,80.00,79.80,89.83,96.71,110.28
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,441.72,445.28,387.93,336.10,335.46,359.97,399.77,383.38,322.09,378.49,401.64,503.24,121.80,112.60,123.33,114.13,109.86,98.05,94.60,91.46,89.92,98.42,103.13,115.06
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,314.20,261.63,231.94,221.09,237.43,244.43,268.14,276.35,243.38,229.56,244.79,294.26,101.02,92.29,100.28,92.69,89.80,81.29,79.92,78.66,78.03,85.20,88.24,96.95
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,294.79,224.63,228.08,229.95,238.26,260.38,296.69,291.21,270.88,236.30,247.74,276.93,98.55,89.94,97.32,89.20,85.54,76.60,74.82,73.67,73.58,81.26,85.08,94.24
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,424.71,286.73,266.02,250.57,272.61,302.97,355.02,327.85,285.69,260.20,302.66,343.76,109.98,101.20,108.69,97.15,89.51,76.29,71.41,69.08,70.27,81.04,88.99,102.54
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,387.42,289.16,282.55,247.40,241.31,266.06,303.10,287.65,262.31,245.75,317.72,349.36,111.83,102.81,112.01,103.31,99.37,88.92,86.35,84.17,83.29,91.43,95.65,106.30
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,448.74,295.15,282.91,237.77,261.82,290.49,337.38,316.99,270.48,258.69,309.38,421.09,118.03,109.19,118.56,107.79,101.25,87.96,83.13,79.98,79.81,89.83,96.72,110.27
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,391.62,398.20,348.43,292.32,276.39,293.29,325.42,312.36,264.24,323.26,350.84,443.78,121.80,112.59,123.34,114.14,109.85,98.04,94.59,91.46,89.91,98.42,103.13,115.06
+
+File Name,Total Annual (GJ),Elec Annual (GJ),Gas Annual (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,4664.13,3599.75,1064.37
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,4685.72,3665.90,1019.82
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,5426.65,4360.47,1066.18
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,5242.66,4077.19,1165.47
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,5564.89,4382.35,1182.54
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,5967.45,4695.07,1272.38
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,4131.54,3067.18,1064.36
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,4115.63,3095.82,1019.81
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,4744.94,3678.78,1066.16
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,4645.23,3479.80,1165.44
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,4913.41,3730.90,1182.51
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,5292.47,4020.14,1272.34
+
+File Name,Net Site EUI (MJ/m2),Net Source EUI (MJ/m2),Total Energy/Net Site Energy (GJ),Total Energy/Net Source Energy (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,633.61,1784.70,4664.13,13137.57
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,636.54,1808.37,4685.72,13311.85
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,737.19,2130.11,5426.65,15680.26
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,712.20,2015.70,5242.66,14838.07
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,755.97,2156.59,5564.89,15875.17
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,810.66,2311.26,5967.45,17013.70
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,561.26,1543.05,4131.54,11358.77
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,559.09,1549.71,4115.63,11407.79
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,644.58,1820.81,4744.94,13403.40
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,631.04,1744.64,4645.23,12842.73
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,667.47,1861.00,4913.41,13699.29
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,718.97,2005.02,5292.47,14759.40
+
+File Name,Total (GJ),Heating (GJ),Cooling (GJ),Lights (GJ),Equipment (GJ),Fans (GJ),Pumps (GJ),Heat Recovery (GJ),DHW (GJ),CHP (GJ),Generated (GJ)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,4664.12,283.02,301.67,641.23,935.81,1313.34,0.0,0.0,1064.37,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,4685.72,192.05,420.88,641.23,935.81,1350.7,0.0,0.0,1019.82,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,5426.650000000001,447.72,591.33,641.23,935.81,1619.67,0.0,0.0,1066.18,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,5242.66,536.89,378.78,641.23,935.81,1459.6,0.0,0.0,1165.47,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,5564.89,628.15,484.71,641.23,935.81,1567.62,0.0,0.0,1182.54,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,5967.45,894.58,398.39,641.23,935.81,1700.44,0.0,0.0,1272.38,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,4131.54,274.09,226.66,622.44,935.81,883.5,0.0,0.0,1064.36,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,4115.63,193.77,317.09,622.44,935.81,901.48,0.0,0.0,1019.81,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,4744.9400000000005,467.91,442.68,622.44,935.81,1085.23,0.0,0.0,1066.16,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,4645.24,538.13,275.24,622.44,935.81,983.29,0.0,0.0,1165.44,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,4913.41,629.52,359.36,622.44,935.81,1058.94,0.0,0.0,1182.51,0.0,0.000
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,5292.48,887.43,295.75,622.44,935.81,1154.09,0.0,0.0,1272.34,0.0,0.000
+
+File Name,Unmet Heating (Hours),Unmet Cooling (Hours)
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ1/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ2/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ1_CZ3/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ1/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ2_CZ2/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/calib1/HZ3_CZ1/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ1/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ2/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ1_CZ3/instance-out.sql,1.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ1/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ2_CZ2/instance-out.sql,0.00,0.00
+/Users/amine-lazrak/Documents/Big Ladder/RTF/modelkit-flannel~/models/pnw/apartment-highrise/calibration/runs/existing-cbsa-2014/HZ3_CZ1/instance-out.sql,1.00,0.00
+
